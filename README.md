@@ -234,8 +234,3 @@ Simple shell 1.0 +
 *   The file should contain one command per line.
 *   In this mode, the shell should not print a prompt and should not read from `stdin`.
 - - -
-
-
-### Author:
-
-* [Nigel Waswa](https://github.com/waswanigel)
